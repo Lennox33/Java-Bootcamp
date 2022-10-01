@@ -5,7 +5,13 @@ public class WorkSchedule {
          
         // if it's a holiday, print: "woohoo, no work!");
         // if it's the weekend, print: "it's the weekend, no work!"
-        // otherwise, print: "Wake up at 7:00 :( ";
+        if (holiday){
+            System.out.println("Woohoo, no work!");
+        } if else (day > 5 && day < 1) {
+            System.out.println("It's the weekend, time to work on Java!");
+        }
+        } else {
+            System.out.println("Wake up at 7! Time for another great day!");
         }
 
     }
