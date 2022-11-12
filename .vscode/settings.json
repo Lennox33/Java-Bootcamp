@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "Module 1 - Introduction to Java/Section4/Parameters",
         "Module 1 - Introduction to Java/Section4/Chorus",
         "Module 1 - Introduction to Java/Section 3/SwitchStatements",
         "Module 1 - Introduction to Java/Section 3/LogicalOperators",
@@ -15,6 +16,6 @@
         "Module 1 - Introduction to Java/3. Booleans and Conditionals/Workbook 3.2",
         "Module 1 - Introduction to Java/3. Booleans and Conditionals/Workbook 3.1",
         "Module 1 - Introduction to Java/3. Booleans and Conditionals/Challenge 3",
-        "Module 1 - Introduction to Java/Section4/Parameters"
+        "Module 1 - Introduction to Java/Section4/Return"
     ]
 }
