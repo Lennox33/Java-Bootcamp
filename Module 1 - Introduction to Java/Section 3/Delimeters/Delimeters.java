@@ -32,7 +32,8 @@ public class Delimeters {
         scan.nextLine();
         System.out.println("Please write a sentence");
         String sentence = scan.nextLine();
-
+        
+        System.out.println(sentence + num);
         scan.close();
     }
 }
